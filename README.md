@@ -37,6 +37,7 @@ https://github.com/NightFurySL2001/CJK-character-count/releases
 - 优化输出包，支持中文名.exe
 - 图标加上颜色定义
 - 增加botton按钮，可以进入目标网站
+- 所有图标素材提供PSD源文件
 - 其它微不足道的细节
 
 ## 编译命令
